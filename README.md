@@ -7,7 +7,9 @@ Hope you enjoy it.
 ### Components
 
 Front end: app directory with bootstrap
+
 Server: server.go with basic routes with logging
+
 Angular-version: 1.2.4
 
 
